@@ -1,0 +1,49 @@
+10
+
+dir
+20544
+svn://192.168.1.248/cp/om/nginx/nginx_rtmp_module/branch/nginx-1.6.2/src
+svn://192.168.1.248/cp
+
+
+
+2017-01-03T04:51:16.096390Z
+20508
+ligp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+09170478-5387-5d4b-a151-aa4dd716bf92
+
+core
+dir
+
+misc
+dir
+
+http
+dir
+
+event
+dir
+
+os
+dir
+
+mail
+dir
+
+nginx-rtmp-module
+dir
+
